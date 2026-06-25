@@ -1,0 +1,8 @@
+treatment,n_pairs,r_obs,r_shuf
+all unique (baseline),67516,0.7826,0.782
+"bulk array, exclude gaps >300 bp",65204,0.8059,0.807
+"bulk array, exclude gaps >250 bp",62276,0.825,0.8255
+"bulk array, exclude gaps >220 bp",58900,0.8419,0.8414
+top 50% confidence (thinned),33750,0.593,0.5809
+top 25% confidence (thinned),16867,0.4796,0.4635
+top 10% confidence (thinned),6729,0.3582,0.3615
