@@ -1,0 +1,9 @@
+# raw third-party chemical maps (download per README; do not commit)
+data/raw/*.txt
+data/raw/*.tsv
+# python / latex cruft
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
